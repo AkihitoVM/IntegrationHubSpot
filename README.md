@@ -53,3 +53,14 @@ Also, be sure to have `git` available in your PATH, `npm` might need it (You can
       $ npm install -g yarn
 
 ---
+
+## Install
+
+    $ git clone https://github.com/AkihitoVM/IntegrationHubSpot.git
+    $ cd IntegrationHubSpot
+    $ yarn install
+
+
+## Running the project
+
+    $ yarn start
