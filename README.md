@@ -1,5 +1,4 @@
-<p style="text-align: center;font-weight: bold;
-font-size:25px;">Integrations project</p>
+# Integrations project
 
 Create node.js app that synchronizes contacts and tickets from Hubspot to MySQL/MariaDB database.
 
